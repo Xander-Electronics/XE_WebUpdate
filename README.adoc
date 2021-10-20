@@ -4,7 +4,7 @@ Allows to update the firmware on Arduino NINA-W102 based boards loading a .bin
 
 == License ==
 
-Copyright (c) 2021 Arduino SA. All rights reserved.
+Copyright (c) 2021 Xander Electronics. All rights reserved.
 
 This library is free software; you can redistribute it and/or
 modify it under the terms of the GNU Lesser General Public
