@@ -1,0 +1,21 @@
+###########################################
+# Syntax Coloring Map For Arduino_APDS9960
+###########################################
+# Class
+###########################################
+
+XanderElectronics_WebUpdate	KEYWORD1
+WebUpdate	KEYWORD1
+
+###########################################
+# Methods and Functions 
+###########################################
+
+begin	KEYWORD2
+pollServer	KEYWORD2
+getAPName	KEYWORD2
+
+###########################################
+# Constants
+###########################################
+
