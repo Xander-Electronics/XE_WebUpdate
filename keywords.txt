@@ -1,10 +1,10 @@
 ###########################################
-# Syntax Coloring Map For Arduino_APDS9960
+# Syntax Coloring Map For XE_WebUpdate
 ###########################################
 # Class
 ###########################################
 
-XanderElectronics_WebUpdate	KEYWORD1
+XE_WebUpdate	KEYWORD1
 WebUpdate	KEYWORD1
 
 ###########################################

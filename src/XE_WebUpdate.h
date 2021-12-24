@@ -17,8 +17,8 @@
   Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
-#ifndef XANDERELECTRONICS_WEBUPDATE
-#define XANDERELECTRONICS_WEBUPDATE
+#ifndef XE_WEBUPDATE
+#define XE_WEBUPDATE
 
 #include <Arduino.h>
 #include <SDU.h>
